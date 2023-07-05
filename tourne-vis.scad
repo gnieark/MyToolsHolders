@@ -6,5 +6,5 @@ difference(){
    
     translate ([-17,-150,10])
     rotate([90,90,0])
-    #cylinder(r=3,h=50,$fn=50);
+    #cylinder(r=5,h=50,$fn=50);
 }
