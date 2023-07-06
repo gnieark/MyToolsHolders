@@ -1,6 +1,6 @@
 difference(){
 linear_extrude (height=20, $fn = 200)
-        import (file="cylinderClip.dxf", layer="12-13mm", $fn=200);
+        import (file="cylinderClip.dxf", layer="13-15mm", $fn=200);
        
     union(){
     translate([12.3,10,10])
